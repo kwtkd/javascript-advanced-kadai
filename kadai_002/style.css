@@ -1,0 +1,34 @@
+body{
+  font-size: 6em;
+  text-align: center;
+}
+
+.count{
+  font-weight: bold;
+  color: #888;
+}
+
+.wrap{
+  background-color: #666;
+  font-weight: bold;
+  color: white;
+  padding:70px 30px;
+  margin-top: 15px;
+}
+
+.typed{
+  color:lightgreen;
+}
+
+.mistyped
+{
+  background-color: red;
+}
+
+.wordCount{
+  font-weight: bold;
+  color: #888;
+}
+ p{
+  margin: 30px;
+ }
